@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#top{
+    padding: 20px 0;
+    border-bottom: 1px solid;
+}
+
+#teamworkline{
+    background-color: yellow;
+}
+#allrightreserved{
+    text-align: center;
+    font-size: x-small;
+}
